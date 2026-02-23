@@ -1,9 +1,7 @@
 # 🍫NAS-Chocolate-Business-Sales-Analysis-Using-Tableau
 NAS Chocolate, a producer of milk and dark chocolate, engaged us to develop a comprehensive sales report across its operating countries. My team analyzed sales by country, identified the top 10 salespersons overall and per country, and delivered a Tableau dashboard summarizing total sales, boxes shipped, and shipment counts
 
-<p align="center">
-  <img src="images/NAS_Chocolate_Dashboard.png" alt="NAS Chocolate Dashboard" width="100%">
-</p>
+<img width="637" height="557" alt="NAS Chocolate Dashboard" src="https://github.com/user-attachments/assets/72a9d433-e748-4c69-ace1-e06543f62686" />
 
 ---
 
